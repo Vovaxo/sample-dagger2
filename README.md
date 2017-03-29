@@ -53,7 +53,7 @@ Starting from version 2.10 dagger allows using `dagger.android` which simplify u
             }
         }
 
-This example was taken from [official dagger documentation][1].
+This example was based on [official dagger documentation][1].
     
 
 
